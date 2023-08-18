@@ -70,8 +70,8 @@ public class Implementation_API : MonoBehaviour
 
     private void Update()
     {
-        Debug.Log(response.complementary.rgb.composition.red);
-        Debug.Log(response.complementary.keyword);
+        //Debug.Log(response.complementary.rgb.composition.red);
+        //Debug.Log(response.complementary.keyword);
     }
 
 }
